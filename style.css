@@ -1,0 +1,87 @@
+body {
+  background: url(images/bg-desktop.svg) #674BAF;
+  background-repeat: no-repeat;
+}
+
+.container {
+  padding: 2% 5% 0 5%;
+}
+
+/* Leftbox Elements */
+
+.leftbox {
+  padding-right: 60px;
+  margin-right: 60%;
+  position: absolute;
+}
+
+.logotitle {
+  width: 40%;
+  margin-bottom: 10%;
+}
+
+.mainimage {
+  width: 140%;
+}
+
+/* Rightbox Elements */
+
+.rightbox {
+  margin-top: -10%;
+  margin-left: 33%;
+  position: absolute;
+  padding: 3%;
+}
+
+/* Seperate style for inside Rightbox Elements */
+
+.informate {
+  padding: 20%;
+}
+
+.maintitle {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.5;
+  font-weight: 600;
+  color: #ffffff;
+  margin: 20% 30% 5% 0;
+  font-size: 38px;
+}
+
+.introductory {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  color: #ffffff;
+  line-height: 1.5;
+  font-size: 19px;
+}
+
+/* Button Element */
+
+.registration {
+  text-align: center;
+  border-radius: 40px;
+  width: 200px;
+  height: 60px;
+  background-color: #ffffff;
+  color: #674BAF;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  margin-top: 10px;
+  box-shadow: 2px 5px 5px 2px #48347a;
+}
+
+/* Social Links Elements */
+
+.social {
+  color: #ffffff;
+  position: relative;
+  text-align: right;
+  margin-right: 5%;
+  margin-top: 43%;
+}
+
+.links{
+  padding: 0 10px;
+}
